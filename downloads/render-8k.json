@@ -1,0 +1,27 @@
+{
+    "parts":  [
+                  {
+                      "url":  "downloads/render-8k/part-001.bin",
+                      "bytes":  16777216,
+                      "sha256":  "f0de8086d4eb41ac4ac332fb7f3b319bf49af14403c368eca5ca2a70a1d89d4d"
+                  },
+                  {
+                      "url":  "downloads/render-8k/part-002.bin",
+                      "bytes":  16777216,
+                      "sha256":  "83625bb9e936533299470aef112371fcb09061a9fe48f9b93fa956d91963ec35"
+                  },
+                  {
+                      "url":  "downloads/render-8k/part-003.bin",
+                      "bytes":  6172743,
+                      "sha256":  "23882ac6069c5978caee0cfa45351334b559e659bd6d33b7f939bd0c2fb0e230"
+                  }
+              ],
+    "bytes":  39727175,
+    "resolution":  [
+                       7680,
+                       5416
+                   ],
+    "sha256":  "2921c0531a198c35a700adee726d3a7677e90851997c1eb1cfd263c2d2a3bb50",
+    "mime":  "image/png",
+    "filename":  "walnut-bedroom-cycles-8k.png"
+}
